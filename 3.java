@@ -1,14 +1,6 @@
-<<<<<<< HEAD
-bjfkfbjkf
-jkdbdjfkud
-jndklbdk
-nbfjkdf
+hfksjflskfskf
+fsfnslsf
+lkfnslnsf
 
-=======
-sjbsk
-ksnnsks
-snksk'snkls
-ksnslk
-m,nsmns
->>>>>>> parent of 0f8b44e... deleting 3.java
 
+idea 2
